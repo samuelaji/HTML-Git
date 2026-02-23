@@ -1,0 +1,26 @@
+.profil {
+    font-size: 40px;
+    font-family: poppins;
+    color: #2013b1;
+    text-align: center;
+}
+
+h2 {
+    font-family: poppins;
+    color: #2013b1;
+    text-align: center;
+}
+
+.perkenalan {
+    font-family: poppins;
+    color: #000000;
+    text-align: justify;
+    margin: 0 20px;
+}
+
+.cerita {
+    font-family: poppins;
+    color: #000000;
+    text-align: left;
+    margin: 0 20px;
+}
